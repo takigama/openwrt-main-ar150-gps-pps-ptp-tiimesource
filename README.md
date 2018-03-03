@@ -1,5 +1,7 @@
 # AR150 GPS Time Source - Now supporting chrony, ntpd, and PTP!
 
+If your just looking for the firmware, go here: https://github.com/takigama/glinet_ar150_gps_daughterboard/tree/master/openwrt-firmware
+
 This is my for of the openwrt git repo at https://git.openwrt.org/openwrt/openwrt.git
 and contains all my changes for the AR150's time source code.
 
